@@ -1,0 +1,4 @@
+php_value register_globals Off
+php_value track_vars On
+php_value arg_separator.output "&"
+php_value arg_separator.input "&"
